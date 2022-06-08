@@ -3,9 +3,10 @@ class Solution {
         HashSet<Character> window = new HashSet<>();
         int left = 0, right = 0;
         int longest = 0;
+        int n = s.length();
         
         
-        while (right < s.length()) {
+        while (right < n) {
             if (window.contains(s.charAt(right))) {
                 window.remove(s.charAt(left));
                 left++;
