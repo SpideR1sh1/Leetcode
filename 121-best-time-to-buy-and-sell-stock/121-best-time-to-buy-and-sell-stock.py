@@ -6,9 +6,8 @@ class Solution:
         while r < len(prices):
             if prices[l] < prices[r]:
                 profit = prices[r] - prices[l]
-                maxP = max(maxP, profit)
+                maxP = max(profit, maxP)
             else:
                 l = r
             r += 1
         return maxP
-        
