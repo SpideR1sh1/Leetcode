@@ -2,6 +2,7 @@ class Solution:
     def searchMatrix(self, matrix: List[List[int]], target: int) -> bool:
         l = 0
         m, n = len(matrix[0]), len(matrix)
+        
         r = m * n - 1
         
         while l < r:
@@ -12,6 +13,7 @@ class Solution:
             else:
                 r = med
         return matrix[l//m][l%m] == target
+
 
 
 
