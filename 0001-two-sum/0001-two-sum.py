@@ -8,3 +8,5 @@ class Solution:
             elif num not in seen:
                 seen[num] = i
         
+
+            
