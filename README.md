@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SpideR1sh1/Leetcode/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SpideR1sh1/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/SpideR1sh1/Leetcode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -38,4 +39,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/SpideR1sh1/Leetcode/tree/master/0217-contains-duplicate) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SpideR1sh1/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
