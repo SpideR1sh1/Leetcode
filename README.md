@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/SpideR1sh1/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/SpideR1sh1/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/SpideR1sh1/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/SpideR1sh1/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/SpideR1sh1/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Math
 |  |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/SpideR1sh1/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/SpideR1sh1/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/SpideR1sh1/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/SpideR1sh1/Leetcode/tree/master/0206-reverse-linked-list) |
 ## String
 |  |
@@ -76,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/SpideR1sh1/Leetcode/tree/master/0018-4sum) |
 | [0125-valid-palindrome](https://github.com/SpideR1sh1/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/SpideR1sh1/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/SpideR1sh1/Leetcode/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SpideR1sh1/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Prefix Sum
 |  |
@@ -102,4 +105,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/SpideR1sh1/Leetcode/tree/master/0074-search-a-2d-matrix) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/SpideR1sh1/Leetcode/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
