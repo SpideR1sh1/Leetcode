@@ -142,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/SpideR1sh1/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/SpideR1sh1/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/SpideR1sh1/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/SpideR1sh1/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -175,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SpideR1sh1/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/SpideR1sh1/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/SpideR1sh1/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/SpideR1sh1/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 ## String Matching
 |  |
 | ------- |
@@ -187,4 +189,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SpideR1sh1/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/SpideR1sh1/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
