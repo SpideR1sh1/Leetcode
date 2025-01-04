@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0271-encode-and-decode-strings](https://github.com/SpideR1sh1/Leetcode/tree/master/0271-encode-and-decode-strings) |
 | [0287-find-the-duplicate-number](https://github.com/SpideR1sh1/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/SpideR1sh1/Leetcode/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/SpideR1sh1/Leetcode/tree/master/0907-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SpideR1sh1/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/SpideR1sh1/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/SpideR1sh1/Leetcode/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/SpideR1sh1/Leetcode/tree/master/0907-koko-eating-bananas) |
 ## Greedy
 |  |
 | ------- |
