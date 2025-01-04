@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SpideR1sh1/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/SpideR1sh1/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/SpideR1sh1/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0271-encode-and-decode-strings](https://github.com/SpideR1sh1/Leetcode/tree/master/0271-encode-and-decode-strings) |
 | [0287-find-the-duplicate-number](https://github.com/SpideR1sh1/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/SpideR1sh1/Leetcode/tree/master/0792-binary-search) |
 ## Hash Table
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/SpideR1sh1/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/SpideR1sh1/Leetcode/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/SpideR1sh1/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0271-encode-and-decode-strings](https://github.com/SpideR1sh1/Leetcode/tree/master/0271-encode-and-decode-strings) |
 | [0344-reverse-string](https://github.com/SpideR1sh1/Leetcode/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/SpideR1sh1/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/SpideR1sh1/Leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -206,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/SpideR1sh1/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0271-encode-and-decode-strings](https://github.com/SpideR1sh1/Leetcode/tree/master/0271-encode-and-decode-strings) |
 ## Trie
 |  |
 | ------- |
