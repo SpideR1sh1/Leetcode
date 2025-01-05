@@ -1,16 +1,19 @@
-4. Binary Search (One Pass)
 class Solution:
     def searchMatrix(self, matrix: List[List[int]], target: int) -> bool:
-        ROWS, COLS = len(matrix), len(matrix[0])
+        rows, cols = len(matrix), len(matrix[0])
 
-        l, r = 0, ROWS * COLS - 1
+        l, r = 0, rows * cols - 1
+
         while l <= r:
-            m = l + (r - l) // 2
-            row, col = m // COLS, m % COLS
+            mid = l + (r - l) // 2
+            row = mid // cols
+            col = mid % cols
+            
             if target > matrix[row][col]:
-                l = m + 1
+                l = mid + 1
             elif target < matrix[row][col]:
-                r = m - 1
+                r = mid - 1
             else:
                 return True
         return False
+        
