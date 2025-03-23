@@ -3,10 +3,8 @@ class Solution:
         seen = {}
 
         for i, num in enumerate(nums):
-            if target - num in seen:
-                return([seen[target - num], i])
-            elif num not in seen:
-                seen[num] = i
+            complement = target - num
+            if complement in seen:
+                return [seen[complement], i]
+            seen[num] = i
         
-
-            
